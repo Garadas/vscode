@@ -15,4 +15,4 @@ let numbers = [];
           }
     }
     zadanie(numbers);
-    ////////////////
+    ////////////////jjj
